@@ -1,0 +1,23 @@
+form {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:20px;
+}
+
+.btnSend {
+    border: 2px solid #C4C4C4;
+    width: 328px;
+    height: 50px;
+    background-color: white;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+
+}
