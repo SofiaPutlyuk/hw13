@@ -1,0 +1,29 @@
+header {
+    background: #000000;
+    width: 1920px;
+    height: 115px;
+    padding-top: 20px;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.item {
+    color: #FFF;
+    list-style: none;
+}
+
+.account-button {
+    color: white;
+    background: none;
+    font-family: 'Oswald';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 100%;
+    text-transform: uppercase;
+    border: none;
+}
